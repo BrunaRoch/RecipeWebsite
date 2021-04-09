@@ -3,4 +3,4 @@ Site desenvolvido para um exercício da faculdade, utilizando apenas HTML, com o
 
 Website developed for a college exercise, using only HTML, with the aim of being a simple interface of a recipe, where we include video, audio and a page where the user can contact.
 
-👉Project link: https://itsmebru.github.io/RecipeWebsite/index.html
+👉Project link: https://brunaroch.github.io/RecipeWebsite/
